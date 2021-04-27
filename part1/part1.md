@@ -1,4 +1,5 @@
 1a.
+
     1. values added: 20
     2. final result: 20
     3. values added: 20
@@ -8,6 +9,7 @@
 
     6. Same as #5.
 1b.
+
     1. line 12 will output "3" to the console because 'i' was declared using var meaning its scope makes it available in the entire function and the for loop iterates i all the way to prices.length-1 which is 3
    
     2. line 12 will output "150" to the console which is the value of discountedPrice after execution of the for loop. Even though declared in the for loop, discountedPrice was declared using var which gives it full function scope
